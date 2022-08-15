@@ -13,6 +13,9 @@
   - Footers
   - Flex with ul
   - Flex division, space around, text align, flex direction reverse
+  - Responsive web
+  - Justify content
+  - Media Queries
   
 ### Development Efforts:- 6.50 hours
   
